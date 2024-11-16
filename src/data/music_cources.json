@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Beginner Guitar Lessons",
+        "slug": "beginner-guitar-lessons",
+        "description": "Learn the basics of playing guitar with this comprehensive course designed for beginners.",
+        "price": 49.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "featuredImage": "/cources/guitar.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Advanced Piano Techniques",
+        "slug": "advanced-piano-techniques",
+        "description": "Take your piano skills to the next level with advanced techniques and exercises.",
+        "price": 79.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "featuredImage": "/cources/piano.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Music Theory Essentials",
+        "slug": "music-theory-essentials",
+        "description": "Understand the fundamentals of music theory to enhance your musical knowledge.",
+        "price": 59.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true,
+        "featuredImage": "https://images.pexels.com/photos/4152584/pexels-photo-4152584.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Vocal Training for Beginners",
+        "slug": "vocal-training-for-beginners",
+        "description": "Improve your singing with vocal exercises and techniques tailored for beginners.",
+        "price": 39.99,
+        "instructor": "Michael Brown",
+        "isFeatured": false,
+        "featuredImage": "https://images.pexels.com/photos/7097539/pexels-photo-7097539.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Jazz Improvisation Masterclass",
+        "slug": "jazz-improvisation-masterclass",
+        "description": "Master the art of jazz improvisation with this in-depth masterclass.",
+        "price": 99.99,
+        "instructor": "Emily Davis",
+        "isFeatured": true,
+        "featuredImage": "https://images.pexels.com/photos/210922/pexels-photo-210922.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Classical Piano Masterpieces",
+        "slug": "classical-piano-masterpieces",
+        "description": "Explore the world of classical piano music with this course featuring iconic masterpieces.",
+        "price": 69.99,
+        "instructor": "Sophia Lee",
+        "isFeatured": false,
+        "featuredImage": "/cources/edm.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Rock Guitar Riffs and Solos",
+        "slug": "rock-guitar-riffs-and-solos",
+        "description": "Learn to play iconic rock guitar riffs and solos with this comprehensive course.",
+        "price": 59.99,
+        "instructor": "David Kim",
+        "isFeatured": true,
+        "featuredImage": "/cources/blues.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Electronic Music Production",
+        "slug": "electronic-music-production",
+        "description": "Create your own electronic music tracks with this course covering production techniques and software.",
+        "price": 89.99,
+        "instructor": "Rachel Patel",
+        "isFeatured": false,
+        "featuredImage": "/cources/edm.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Vocal Recording and Mixing",
+        "slug": "vocal-recording-and-mixing",
+        "description": "Learn the art of recording and mixing vocals with this in-depth course.",
+        "price": 79.99,
+        "instructor": "Kevin White",
+        "isFeatured": true,
+        "featuredImage": "/cources/music-prod.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Music Business Essentials",
+        "slug": "music-business-essentials",
+        "description": "Understand the music industry and how to navigate it with this course covering business essentials.",
+        "price": 49.99,
+        "instructor": "Lisa Nguyen",
+        "isFeatured": false,
+        "featuredImage": "/cources/song-writing.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Jazz Piano Harmony and Chord Progressions",
+        "slug": "jazz-piano-harmony-and-chord-progressions",
+        "description": "Delve into the world of jazz piano harmony and chord progressions with this advanced course.",
+        "price": 99.99,
+        "instructor": "Mark Hall",
+        "isFeatured": true,
+        "featuredImage": "/cources/jazz.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Acoustic Guitar Fingerstyle Techniques",
+        "slug": "acoustic-guitar-fingerstyle-techniques",
+        "description": "Master the art of acoustic guitar fingerstyle techniques with this comprehensive course.",
+        "price": 69.99,
+        "instructor": "Tom Harris",
+        "isFeatured": false,
+        "featuredImage": " https://images.unsplash.com/photo-1530022351670-4caa0efc0b4d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

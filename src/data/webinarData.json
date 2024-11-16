@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Mastering Piano Techniques",
+      "description": "Join us for an in-depth webinar on advanced piano techniques. Whether you're looking to improve your speed, dexterity, or overall performance, this session will cover essential practices to help you excel.",
+      "slug": "mastering-piano-techniques",
+      "isFeatured": true
+    },
+    {
+      "title": "Introduction to Jazz Improvisation",
+      "description": "Learn the basics of jazz improvisation in this beginner-friendly webinar. We'll explore scales, chord progressions, and techniques to get you started on your improvisation journey.",
+      "slug": "introduction-jazz-improvisation",
+      "isFeatured": false
+    },
+    {
+      "title": "Building a Music Career in 2024",
+      "description": "Discover the secrets to building a successful music career in today's digital age. This webinar covers networking, digital platforms, branding, and how to monetize your music effectively.",
+      "slug": "building-music-career-2024",
+      "isFeatured": true
+    },
+    {
+      "title": "Vocal Training for Beginners",
+      "description": "This webinar focuses on vocal warm-ups, breathing techniques, and beginner exercises to help you develop strong vocal control and confidence. Perfect for aspiring singers of all levels.",
+      "slug": "vocal-training-beginners",
+      "isFeatured": false
+    },
+    {
+      "title": "Drum Grooves and Fills Masterclass",
+      "description": "Unlock the secrets to mastering drum grooves and fills in this high-energy webinar. Learn how to create rhythmically engaging patterns that enhance your performances.",
+      "slug": "drum-grooves-fills-masterclass",
+      "isFeatured": true
+    },
+    {
+      "title": "Music Theory Essentials",
+      "description": "Get a solid understanding of fundamental music theory concepts. This webinar is perfect for musicians who want to learn about scales, chord structures, and how to apply theory to their playing.",
+      "slug": "music-theory-essentials",
+      "isFeatured": false
+    },
+    {
+      "title": "Songwriting Techniques for Modern Musicians",
+      "description": "Explore creative songwriting techniques that resonate with today’s listeners. Learn about lyric writing, song structure, and the tools you need to craft hit songs.",
+      "slug": "songwriting-techniques-modern-musicians",
+      "isFeatured": true
+    },
+    {
+      "title": "The Art of Classical Guitar",
+      "description": "Dive into the world of classical guitar with expert tips on technique, performance, and interpretation. Ideal for intermediate and advanced players looking to refine their classical repertoire.",
+      "slug": "art-of-classical-guitar",
+      "isFeatured": false
+    },
+    {
+      "title": "Sound Engineering Basics",
+      "description": "A comprehensive webinar on sound engineering, perfect for musicians and aspiring audio engineers. Learn the basics of recording, mixing, and mastering audio tracks.",
+      "slug": "sound-engineering-basics",
+      "isFeatured": false
+    },
+    {
+      "title": "How to Build a Home Studio",
+      "description": "This webinar will guide you through everything you need to know about setting up your own home studio on a budget, from choosing the right equipment to optimizing your space for professional recording.",
+      "slug": "how-to-build-home-studio",
+      "isFeatured": true
+    }
+  ]
+  
