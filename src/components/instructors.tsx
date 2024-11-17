@@ -1,7 +1,6 @@
 "use client"
 import React from "react";
 import { WavyBackground } from "./ui/wavy-background";
-import {createNoise3D} from "simplex-noise"
 import { AboutAcadamy } from "@/data/About_acadamy";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
 function Instructors() {

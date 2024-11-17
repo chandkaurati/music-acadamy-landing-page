@@ -17,5 +17,4 @@ export default function Home() {
     <Instructors/>
     </main>
   );
-}
-8;
+};
