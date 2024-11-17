@@ -6,7 +6,7 @@ import { HoverEffect } from './ui/card-hover-effect'
 
 function UpcommingWebiars() {
   return (
-    <div className='p-12 bg-gray-900'> 
+    <div className='md:p-12 bg-gray-900'> 
     <div className='s'>
       <div className='text-center'>
         <h2 className="text-base text-teal-600 font-bold tracking-tight uppercase ">FEATURED WEBINARS</h2>
@@ -15,7 +15,7 @@ function UpcommingWebiars() {
         ">Enhance your musical journy</p>
       </div>
       <div className='mt-10'>
-      <div className="max-w-5xl mx-auto px-8">
+      <div className="max-w-5xl mx-auto">
       <HoverEffect items={
         upCommingwebinars.map(webinar => (
             {

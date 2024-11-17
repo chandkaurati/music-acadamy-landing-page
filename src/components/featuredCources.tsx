@@ -44,7 +44,7 @@ function FeaturedCources() {
       <div className="mt-10">
         <div
           className="grid  grid-cols-1
-         sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-center"
+         sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-center px-3"
         >
           {featuredCource.map((cource: Cource) => (
             <div key={cource.id} className="flex justify-center">
